@@ -1,0 +1,3 @@
+/home/swalia@AD.UCSD.EDU/work/dpx_example/build/CMakeFiles/rebuild_cache.dir
+/home/swalia@AD.UCSD.EDU/work/dpx_example/build/CMakeFiles/edit_cache.dir
+/home/swalia@AD.UCSD.EDU/work/dpx_example/build/CMakeFiles/dpx.dir
